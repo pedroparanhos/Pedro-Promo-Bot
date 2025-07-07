@@ -1,0 +1,9 @@
+# Ignorar o ficheiro de variáveis de ambiente
+.env
+
+# Ignorar o ficheiro de sessão do Telethon
+promo_session.session
+
+# Ignorar ficheiros de cache do Python
+__pycache__/
+*.pyc
